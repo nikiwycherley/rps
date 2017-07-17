@@ -1,0 +1,52 @@
+h1{
+	font-family: 'Cuprum', sans-serif;
+	font-Size:60px;
+	text-align: center;
+}
+h2{
+	font-family: 'Cuprum', sans-serif;
+	font-Size:30px;
+	text-align: center;
+}
+img{
+	display:block;
+	margin:auto;
+	width:30%;	
+	padding:20px;
+}
+p{
+	font-family: 'Cuprum', sans-serif;
+	font-Size:20px;
+	text-align: center;
+}
+a.button {
+
+	font-family: 'Cuprum', sans-serif;
+	color: #ffffff;
+	font-size: 15px;
+	background: #00db00;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	text-align: center;
+	display:block;
+	margin:auto;
+	width:100px;	
+}
+a.button:hover {
+    background: #3cb0fd;
+	background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+	background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+	background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+	background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+	background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+	text-decoration: none;
+}
+results{
+	font-family: 'Cuprum', sans-serif;
+	font-Size:20px;
+	text-align: center;
+
+}
+
+
+
